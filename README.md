@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Devashish 👋
 
-<!--
-**gitkilva/gitkilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with a strong foundation in SQL, Power BI, and data-driven business analysis.  
+Focused on building reliable metrics, validating insights, and translating data into actionable decisions.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- SQL (aggregations, window functions, time-series analysis)
+- Power BI (DAX measures, modeling, executive dashboards)
+- Excel (pivot tables, validation, business analysis)
+- Data Analysis & Business Insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Project
+**Superstore Sales Performance Analysis**  
+- Built an end-to-end analytics solution from raw data to executive dashboard  
+- Identified revenue concentration risk using Pareto (80/20) analysis  
+- Designed and validated business-critical metrics  
+
+➡️ View project: [Superstore Sales Performance Analysis](https://github.com/gitkilva/superstore-sales-analytics)
+
+### 🎯 Currently Working On
+- Cloud fundamentals for data analysts (Azure)
+- Advanced SQL patterns & analytics engineering concepts
+
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/poddoku-devashish-rao1/)
+
