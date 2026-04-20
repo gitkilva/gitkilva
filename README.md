@@ -1,15 +1,26 @@
 ## Hi, I'm Devashish 👋
 
-Aspiring Data Analyst with a strong foundation in SQL, Power BI, and data-driven business analysis.  
-Focused on building reliable metrics, validating insights, and translating data into actionable decisions.
+Data Analyst focused on SQL-driven analytics, cohort analysis, and building reliable business metrics.  
+I work with data to understand customer behavior, validate insights, and support decision-making.
 
 ### 🔧 Skills
-- SQL (aggregations, window functions, time-series analysis)
-- Power BI (DAX measures, modeling, executive dashboards)
-- Excel (pivot tables, validation, business analysis)
+- SQL (CTEs, window functions, cohort analysis)
+- Power BI (DAX, dashboards, KPI design)
+- Python (Pandas, data analysis, visualization)
+- Excel (pivot tables, data validation)
 - Data Analysis & Business Insights
 
-### 📊 Featured Project
+### 📊 Projects
+**Customer Retention & Cohort Analysis**
+- Built cohort-based retention pipeline using SQL (CTEs, window functions)
+- Analyzed customer lifecycle using cohort_month and cohort_age logic
+- Measured customer retention and revenue trends over time
+- Visualized retention patterns using Python heatmap
+- Resolved customer identity issue (customer_id vs customer_unique_id)
+
+➡️ View project: [Customer Retention & Cohort Analysis](https://github.com/gitkilva/ecommerce-retention-cohort-analysis)
+
+---
 **Superstore Sales Performance Analysis**  
 - Built an end-to-end analytics solution from raw data to executive dashboard  
 - Identified revenue concentration risk using Pareto (80/20) analysis  
