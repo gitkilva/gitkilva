@@ -20,7 +20,6 @@ I work with data to understand customer behavior, validate insights, and support
 
 ➡️ View project: [Customer Retention & Cohort Analysis](https://github.com/gitkilva/ecommerce-retention-cohort-analysis)
 
----
 **Superstore Sales Performance Analysis**  
 - Built an end-to-end analytics solution from raw data to executive dashboard  
 - Identified revenue concentration risk using Pareto (80/20) analysis  
